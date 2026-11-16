@@ -42,7 +42,7 @@ Bản Mod Việt Hóa toàn diện, trau chuốt và chuẩn ngữ cảnh dành 
   - **`Viet PC Pixel 08`**: Tối ưu hiển thị cho PC, màn hình rộng và tỷ lệ cửa sổ linh hoạt.
   - **`Viet Android Pixel 08`**: Tối ưu cỡ chữ to rõ, dễ đọc cho màn hình cảm ứng điện thoại.
  
-### 5. 📦 Đóng Gói Chuẩn Single `.mod` File
+### 4. 📦 Đóng Gói Chuẩn Single `.mod` File
 - Đóng gói duy nhất 1 file `.mod` (chuẩn `string_revision="1"` tương thích 100% với PokeMMO Client hiện tại).
 - Không cần giải nén, chỉ cần import là chơi ngay, không lo xung đột hay ghi đè file hệ thống.
 
