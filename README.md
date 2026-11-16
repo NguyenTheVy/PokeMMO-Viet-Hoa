@@ -63,7 +63,7 @@ Tải file mod phiên bản mới nhất tại mục [**Releases**](https://gith
 
 | Phiên Bản | Tên File Mod | Nền Tảng Hỗ Trợ | Dung Lượng |
 | :--- | :--- | :--- | :--- |
-| **v2.5.9-scout** *(Mới nhất)* | `PokeMMO-Viet-Hoa-v2.5.9-PC-Android.mod` | Windows, macOS, Linux, Android | ~9.3 MB |
+| **v2.5.9-scout** *(Mới nhất)* | `PokeMMO-Viet-Hoa-08-Fix5.mod` | Windows, macOS, Linux, Android | ~9.3 MB |
 
 > 💡 **Mẹo:** Bạn chỉ cần tải **duy nhất** file có đuôi `.mod`, không cần giải nén thành thư mục!
 
@@ -76,7 +76,7 @@ Tải file mod phiên bản mới nhất tại mục [**Releases**](https://gith
 #### Cách 1: Sử dụng tính năng Import của Game (Khuyên dùng)
 1. Khởi động **PokeMMO**.
 2. Tại màn hình Đăng Nhập, nhấn vào nút **Mod Management** (Quản lý Mod) ở góc phải dưới.
-3. Nhấn **Import Mod** và chọn file `PokeMMO-Viet-Hoa-v2.5.9-PC-Android.mod` vừa tải về.
+3. Nhấn **Import Mod** và chọn file `PokeMMO-Viet-Hoa-08-Fix5.mod` vừa tải về.
 4. Tích chọn ô vuông bên cạnh mod để kích hoạt (hiện dấu tích xanh ✅).
 5. Nhấn **Save** và khởi động lại game.
 
@@ -93,7 +93,7 @@ Tải file mod phiên bản mới nhất tại mục [**Releases**](https://gith
 
 ### 2. Cài đặt trên Android
 
-1. Tải file `PokeMMO-Viet-Hoa-v2.5.9-PC-Android.mod` trực tiếp về điện thoại.
+1. Tải file `PokeMMO-Viet-Hoa-08-Fix5.mod` trực tiếp về điện thoại.
 2. Mở ứng dụng **PokeMMO** trên điện thoại.
 3. Tại màn hình Đăng nhập (Login), nhấn vào biểu tượng **Menu bánh răng ⚙️** (hoặc nút **Mod Management**).
 4. Chọn **Import Mod** -> tìm và chọn file `.mod` vừa tải trong thư mục `Download`.
