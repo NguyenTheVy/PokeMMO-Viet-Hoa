@@ -108,10 +108,6 @@ Tải file mod phiên bản mới nhất tại mục [**Releases**](https://gith
 
 1. **Ngôn ngữ Game (Language):**
    - Vào **Cài đặt (Settings)** -> **Ngôn ngữ (Language)** -> Chọn **English** (Bản mod sử dụng slot ngôn ngữ tiếng Anh để đảm bảo độ tương thích cao nhất).
-2. **Kích hoạt Giao diện Font Pixel (Theme):**
-   - Vào **Cài đặt (Settings)** -> **Giao diện (Interface)** -> Mục **Theme**:
-     - Trên Máy tính: Chọn **`Viet PC Pixel 08`**.
-     - Trên Điện thoại: Chọn **`Viet Android Pixel 08`**.
    - Lưu lại và khởi động lại game để áp dụng font chữ sắc nét.
 
 ---
