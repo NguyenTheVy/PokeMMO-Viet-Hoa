@@ -41,11 +41,7 @@ Bản Mod Việt Hóa toàn diện, trau chuốt và chuẩn ngữ cảnh dành 
 - Đi kèm 2 Theme tối ưu:
   - **`Viet PC Pixel 08`**: Tối ưu hiển thị cho PC, màn hình rộng và tỷ lệ cửa sổ linh hoạt.
   - **`Viet Android Pixel 08`**: Tối ưu cỡ chữ to rõ, dễ đọc cho màn hình cảm ứng điện thoại.
-
-### 4. 📖 Tích Hợp Sổ Tay Trinh Sát (Pre-battle Scout Handbook)
-- Tích hợp thông tin chiến thuật trực tiếp vào trước trận đấu với **16 Gym Leaders, Tứ Đại Thiên Vương (Elite Four), Quán Quân (Champion)** và các Huấn luyện viên then chốt.
-- Giúp người chơi nắm bắt nhanh hệ khắc chế, cảnh báo chiêu thức nguy hiểm để chuẩn bị chiến thuật tối ưu.
-
+ 
 ### 5. 📦 Đóng Gói Chuẩn Single `.mod` File
 - Đóng gói duy nhất 1 file `.mod` (chuẩn `string_revision="1"` tương thích 100% với PokeMMO Client hiện tại).
 - Không cần giải nén, chỉ cần import là chơi ngay, không lo xung đột hay ghi đè file hệ thống.
