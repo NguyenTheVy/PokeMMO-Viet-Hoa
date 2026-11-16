@@ -1,0 +1,154 @@
+# 🌟 PokeMMO Việt Hóa Hoàn Chỉnh 5 Vùng (PC & Android)
+
+[![Game: PokeMMO](https://img.shields.io/badge/Game-PokeMMO-orange.svg)](https://pokemmo.com)
+[![Version](https://img.shields.io/badge/Version-v2.5.9--scout-brightgreen.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Android%20|%20macOS%20|%20Linux-blue.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
+[![Language](https://img.shields.io/badge/Language-Ti%E1%BA%BFng%20Vi%E1%BB%87t%20(100%25)-red.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
+[![Status](https://img.shields.io/badge/Status-Ho%C3%A0n%20thi%E1%BB%87n%20%26%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh-success.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
+
+Bản Mod Việt Hóa toàn diện, trau chuốt và chuẩn ngữ cảnh dành cho cộng đồng người chơi **PokeMMO Việt Nam**. Hỗ trợ đầy đủ cả **5 Đại Lục** (Kanto, Johto, Hoenn, Sinnoh, Unova), đi kèm bộ **Font Pixel Tiếng Việt độc quyền** và tính năng **Sổ Tay Trinh Sát** trước trận chiến.
+
+---
+
+## 📑 Mục Lục
+- [🌟 Điểm Nổi Bật](#-điểm-nổi-bật)
+- [📸 Hình Ảnh Trải Nghiệm](#-hình-ảnh-trải-nghiệm)
+- [📥 Tải Về](#-tải-về)
+- [🛠 Hướng Dẫn Cài Đặt](#-hướng-dẫn-cài-đặt)
+  - [Cài đặt trên PC (Windows / macOS / Linux)](#1-cài-đặt-trên-pc-windows--macos--linux)
+  - [Cài đặt trên Android](#2-cài-đặt-trên-android)
+  - [⚙️ Thiết lập trong Game (Bắt buộc)](#3-️-thiết-lập-trong-game-bắt-buộc)
+- [❓ Câu Hỏi Thường Gặp (FAQ)](#-câu-hỏi-thường-gặp-faq)
+- [🤝 Lời Cảm Ơn & Đóng Góp](#-lời-cảm-ơn--đóng-góp)
+
+---
+
+## 🌟 Điểm Nổi Bật
+
+### 1. 🇻🇳 Việt Hóa Toàn Diện 5 Đại Lục
+- Dịch hoàn chỉnh cốt truyện, chuỗi nhiệm vụ và hội thoại NPC tại **Kanto, Johto, Hoenn, Sinnoh, Unova**.
+- Giao diện người dùng (UI), Cài đặt, Bảng thông số Pokémon, Túi đồ (Bag), Chợ GTL (Global Trade Link) đều được trau chuốt tỉ mỉ.
+- Chuẩn hóa hệ thống chiêu thức (Moves), chỉ số, hiệu ứng, vật phẩm quen thuộc với cộng đồng Pokémon.
+
+### 2. 🎯 Tinh Chỉnh Ngữ Cảnh Tự Nhiên
+- Khắc phục triệt để các câu từ dịch thô/dịch máy ngô nghê của các bản cũ.
+- Chuẩn hóa danh xưng nhân vật, đại từ xưng hô phù hợp từng độ tuổi, vai vế và diễn biến cảm xúc trong game.
+- Bảo đảm 100% các biến hệ thống (`{PLAYER}`, `{STR_VAR_1}`, tên chỉ số) hiển thị chính xác, không tràn khung hội thoại.
+
+### 3. 🔤 Bộ Font Pixel Tiếng Việt Độc Quyền (Không Lỗi Font)
+- Tích hợp sẵn font Pixel Việt hóa riêng biệt: **hiển thị đầy đủ dấu tiếng Việt**, sắc nét từng điểm ảnh, chuẩn phong cách retro của Pokémon gốc.
+- Không bị lỗi ô vuông, không bị mất dấu hay nhòe chữ khi chơi ở độ phân giải cao.
+- Đi kèm 2 Theme tối ưu:
+  - **`Viet PC Pixel 08`**: Tối ưu hiển thị cho PC, màn hình rộng và tỷ lệ cửa sổ linh hoạt.
+  - **`Viet Android Pixel 08`**: Tối ưu cỡ chữ to rõ, dễ đọc cho màn hình cảm ứng điện thoại.
+
+### 4. 📖 Tích Hợp Sổ Tay Trinh Sát (Pre-battle Scout Handbook)
+- Tích hợp thông tin chiến thuật trực tiếp vào trước trận đấu với **16 Gym Leaders, Tứ Đại Thiên Vương (Elite Four), Quán Quân (Champion)** và các Huấn luyện viên then chốt.
+- Giúp người chơi nắm bắt nhanh hệ khắc chế, cảnh báo chiêu thức nguy hiểm để chuẩn bị chiến thuật tối ưu.
+
+### 5. 📦 Đóng Gói Chuẩn Single `.mod` File
+- Đóng gói duy nhất 1 file `.mod` (chuẩn `string_revision="1"` tương thích 100% với PokeMMO Client hiện tại).
+- Không cần giải nén, chỉ cần import là chơi ngay, không lo xung đột hay ghi đè file hệ thống.
+
+---
+
+## 📸 Hình Ảnh Trải Nghiệm
+
+| Hội thoại trong game | Quản lý Mod trong PokeMMO |
+| :---: | :---: |
+| ![In-game Dialogue](assets/screenshot_ingame_dialogue.png) | ![Mod Manager](assets/screenshot_mod_manager.png) |
+| *Hội thoại tiếng Việt hiển thị mượt mà, đúng ngữ cảnh* | *Mod được nhận diện hoàn hảo trong mục Mod Management* |
+
+---
+
+## 📥 Tải Về
+
+Tải file mod phiên bản mới nhất tại mục [**Releases**](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/):
+
+| Phiên Bản | Tên File Mod | Nền Tảng Hỗ Trợ | Dung Lượng |
+| :--- | :--- | :--- | :--- |
+| **v2.5.9-scout** *(Mới nhất)* | `PokeMMO-Viet-Hoa-v2.5.9-PC-Android.mod` | Windows, macOS, Linux, Android | ~9.3 MB |
+
+> 💡 **Mẹo:** Bạn chỉ cần tải **duy nhất** file có đuôi `.mod`, không cần giải nén thành thư mục!
+
+---
+
+## 🛠 Hướng Dẫn Cài Đặt
+
+### 1. Cài đặt trên PC (Windows / macOS / Linux)
+
+#### Cách 1: Sử dụng tính năng Import của Game (Khuyên dùng)
+1. Khởi động **PokeMMO**.
+2. Tại màn hình Đăng Nhập, nhấn vào nút **Mod Management** (Quản lý Mod) ở góc phải dưới.
+3. Nhấn **Import Mod** và chọn file `PokeMMO-Viet-Hoa-v2.5.9-PC-Android.mod` vừa tải về.
+4. Tích chọn ô vuông bên cạnh mod để kích hoạt (hiện dấu tích xanh ✅).
+5. Nhấn **Save** và khởi động lại game.
+
+#### Cách 2: Chép trực tiếp vào thư mục mods
+- **Windows**: Chép file `.mod` vào thư mục:
+  ```
+  PokeMMO/data/mods/
+  ```
+  *(Ví dụ: `C:\Program Files\PokeMMO\data\mods\` hoặc `D:\PokeMMO\data\mods\`)*
+- **macOS**: Click chuột phải vào `PokeMMO.app` -> *Show Package Contents* -> `Contents/Resources/Java/data/mods/`.
+- **Linux**: Chép vào thư mục `pokemmo/data/mods/`.
+
+---
+
+### 2. Cài đặt trên Android
+
+1. Tải file `PokeMMO-Viet-Hoa-v2.5.9-PC-Android.mod` trực tiếp về điện thoại.
+2. Mở ứng dụng **PokeMMO** trên điện thoại.
+3. Tại màn hình Đăng nhập (Login), nhấn vào biểu tượng **Menu bánh răng ⚙️** (hoặc nút **Mod Management**).
+4. Chọn **Import Mod** -> tìm và chọn file `.mod` vừa tải trong thư mục `Download`.
+5. Đánh dấu tích xanh ✅ vào mod **PokeMMO Viet Hoa 08**.
+6. Chọn **Save** và nhấn **Restart Game** khi có thông báo.
+
+---
+
+### 3. ⚙️ Thiết lập trong Game (Bắt buộc)
+
+Để game hiển thị tiếng Việt chuẩn 100% và không bị vỡ font, bạn cần kiểm tra 2 cài đặt sau:
+
+1. **Ngôn ngữ Game (Language):**
+   - Vào **Cài đặt (Settings)** -> **Ngôn ngữ (Language)** -> Chọn **English** (Bản mod sử dụng slot ngôn ngữ tiếng Anh để đảm bảo độ tương thích cao nhất).
+2. **Kích hoạt Giao diện Font Pixel (Theme):**
+   - Vào **Cài đặt (Settings)** -> **Giao diện (Interface)** -> Mục **Theme**:
+     - Trên Máy tính: Chọn **`Viet PC Pixel 08`**.
+     - Trên Điện thoại: Chọn **`Viet Android Pixel 08`**.
+   - Lưu lại và khởi động lại game để áp dụng font chữ sắc nét.
+
+---
+
+## ❓ Câu Hỏi Thường Gặp (FAQ)
+
+<details>
+<summary><b>1. Tôi cài mod vào nhưng trong game vẫn hiện tiếng Anh?</b></summary>
+<p>Hãy kiểm tra lại xem trong <b>Mod Management</b> bạn đã đánh dấu tích xanh ✅ cạnh tên mod chưa, và đảm bảo mục Language trong Settings đang đặt là <b>English</b>.</p>
+</details>
+
+<details>
+<summary><b>2. Chữ tiếng Việt bị ô vuông hoặc mất dấu phải làm sao?</b></summary>
+<p>Bạn chưa bật đúng Theme đi kèm của bản mod. Hãy vào <b>Settings -> Interface -> Theme</b> và chọn đúng <code>Viet PC Pixel 08</code> (trên PC) hoặc <code>Viet Android Pixel 08</code> (trên điện thoại Android).</p>
+</details>
+
+<details>
+<summary><b>3. Mod này có dùng chung được với mod Nhạc (Music) hay mod Hình ảnh (Sprites/HD Items) không?</b></summary>
+<p><b>Hoàn toàn tương thích!</b> Mod Việt hóa chỉ can thiệp vào chuỗi văn bản (strings) và giao diện chữ (theme/font), hoàn toàn không ảnh hưởng tới mod RealCries, Follower Sprites, Shiny Audio hay HD Items. Bạn có thể bật đồng thời bình thường.</p>
+</details>
+
+<details>
+<summary><b>4. Tôi có bị khóa tài khoản (Ban) khi sử dụng mod Việt Hóa không?</b></summary>
+<p><b>Không!</b> PokeMMO có hệ thống hỗ trợ Mod chính thức thông qua tính năng <i>Mod Management</i> và thư mục <code>data/mods/</code> được quy định rõ trong điều khoản của PokeMMO. Bản mod tuân thủ 100% chuẩn định dạng của nhà phát hành.</p>
+</details>
+
+---
+
+## 🤝 Lời Cảm Ơn & Đóng Góp
+
+- Dự án được kế thừa và phát triển từ tâm huyết của cộng đồng người hâm mộ Pokémon Việt Nam qua các thời kỳ.
+- Đóng góp báo lỗi dịch thuật hoặc gợi ý chỉnh sửa: Bạn có thể tạo **Issue** trên GitHub hoặc gửi bình luận phản hồi.
+
+---
+
+<p align="center">Chúc bạn có những chuyến phiêu lưu tuyệt vời và trở thành Pokémon Champion trong thế giới PokeMMO! 🏆</p>
