@@ -1,8 +1,8 @@
-# 🌟 PokeMMO Việt Hóa Hoàn Chỉnh 5 Vùng (PC & Android)
+# 🌟 PokeMMO Việt Hóa Hoàn Chỉnh 5 Vùng (PC, Android & iOS)
 
 [![Game: PokeMMO](https://img.shields.io/badge/Game-PokeMMO-orange.svg)](https://pokemmo.com)
 [![Version](https://img.shields.io/badge/Version-v2.5.9--scout-brightgreen.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Android%20|%20macOS%20|%20Linux-blue.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Android%20|%20iOS%20|%20macOS%20|%20Linux-blue.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
 [![Language](https://img.shields.io/badge/Language-Ti%E1%BA%BFng%20Vi%E1%BB%87t%20(100%25)-red.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
 [![Status](https://img.shields.io/badge/Status-Ho%C3%A0n%20thi%E1%BB%87n%20%26%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh-success.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
 
@@ -17,7 +17,8 @@ Bản Mod Việt Hóa toàn diện, trau chuốt và chuẩn ngữ cảnh dành 
 - [🛠 Hướng Dẫn Cài Đặt](#-hướng-dẫn-cài-đặt)
   - [Cài đặt trên PC (Windows / macOS / Linux)](#1-cài-đặt-trên-pc-windows--macos--linux)
   - [Cài đặt trên Android](#2-cài-đặt-trên-android)
-  - [⚙️ Thiết lập trong Game (Bắt buộc)](#3-️-thiết-lập-trong-game-bắt-buộc)
+  - [Cài đặt trên iOS (iPhone / iPad)](#3-cài-đặt-trên-ios-iphone--ipad)
+  - [⚙️ Thiết lập trong Game (Bắt buộc)](#4-️-thiết-lập-trong-game-bắt-buộc)
 - [❓ Câu Hỏi Thường Gặp (FAQ)](#-câu-hỏi-thường-gặp-faq)
 - [🤝 Lời Cảm Ơn & Đóng Góp](#-lời-cảm-ơn--đóng-góp)
 
@@ -63,7 +64,7 @@ Tải file mod phiên bản mới nhất tại mục [**Releases**](https://gith
 
 | Phiên Bản | Tên File Mod | Nền Tảng Hỗ Trợ | Dung Lượng |
 | :--- | :--- | :--- | :--- |
-| **v2.5.9-scout** *(Mới nhất)* | `PokeMMO-Viet-Hoa-08-Fix5.mod` | Windows, macOS, Linux, Android | ~9.3 MB |
+| **v2.5.9-scout** *(Mới nhất)* | `PokeMMO-Viet-Hoa-08-Fix5.mod` | Windows, macOS, Linux, Android, iOS | ~9.3 MB |
 
 > 💡 **Mẹo:** Bạn chỉ cần tải **duy nhất** file có đuôi `.mod`, không cần giải nén thành thư mục!
 
@@ -93,7 +94,7 @@ Tải file mod phiên bản mới nhất tại mục [**Releases**](https://gith
 
 ### 2. Cài đặt trên Android
 
-1. Tải file `PokeMMO-Viet-Hoa-08-Fix5.mod` trực tiếp về điện thoại.
+1. Tải file `PokeMMO-Viet-Hoa-08-Fix5.mod` trực tiếp về điện thoại (file sẽ nằm trong thư mục `Download`).
 2. Mở ứng dụng **PokeMMO** trên điện thoại.
 3. Tại màn hình Đăng nhập (Login), nhấn vào biểu tượng **Menu bánh răng ⚙️** (hoặc nút **Mod Management**).
 4. Chọn **Import Mod** -> tìm và chọn file `.mod` vừa tải trong thư mục `Download`.
@@ -102,13 +103,24 @@ Tải file mod phiên bản mới nhất tại mục [**Releases**](https://gith
 
 ---
 
-### 3. ⚙️ Thiết lập trong Game (Bắt buộc)
+### 3. Cài đặt trên iOS (iPhone / iPad)
 
-Để game hiển thị tiếng Việt chuẩn 100% và không bị vỡ font, bạn cần kiểm tra 2 cài đặt sau:
+1. Dùng trình duyệt Safari tải file `PokeMMO-Viet-Hoa-08-Fix5.mod` về máy -> Lưu tệp vào ứng dụng **Tệp (Files)** của iPhone/iPad (thường nằm trong mục *Tải về*).
+2. Mở ứng dụng **PokeMMO** trên iPhone/iPad (ở màn hình Đăng nhập Login).
+3. Nhấn vào biểu tượng **Menu bánh răng ⚙️** (hoặc nút **Mod Management**).
+4. Chọn **Import Mod** -> trình duyệt **Tệp (Files)** của iOS sẽ tự động mở lên -> chọn file `.mod` vừa tải về.
+5. Đánh dấu tích xanh ✅ kích hoạt mod.
+6. Chọn **Save** và nhấn **Restart Game** khi có thông báo.
+
+---
+
+### 4. ⚙️ Thiết lập trong Game (Bắt buộc)
+
+Để game hiển thị tiếng Việt chuẩn 100%, bạn cần kiểm tra cài đặt sau:
 
 1. **Ngôn ngữ Game (Language):**
    - Vào **Cài đặt (Settings)** -> **Ngôn ngữ (Language)** -> Chọn **English** (Bản mod sử dụng slot ngôn ngữ tiếng Anh để đảm bảo độ tương thích cao nhất).
-   - Lưu lại và khởi động lại game để áp dụng font chữ sắc nét.
+   - Lưu lại và khởi động lại game để áp dụng.
 
 ---
 
@@ -121,7 +133,7 @@ Tải file mod phiên bản mới nhất tại mục [**Releases**](https://gith
 
 <details>
 <summary><b>2. Chữ tiếng Việt bị ô vuông hoặc mất dấu phải làm sao?</b></summary>
-<p>Bạn chưa bật đúng Theme đi kèm của bản mod. Hãy vào <b>Settings -> Interface -> Theme</b> và chọn đúng <code>Viet PC Pixel 08</code> (trên PC) hoặc <code>Viet Android Pixel 08</code> (trên điện thoại Android).</p>
+<p>Bạn hãy vào <b>Settings -> Interface -> Theme</b> và chọn đúng <code>Viet PC Pixel 08</code> (trên PC) hoặc <code>Viet Android Pixel 08</code> (trên điện thoại Android/iOS) để kích hoạt font chữ Pixel có dấu.</p>
 </details>
 
 <details>
