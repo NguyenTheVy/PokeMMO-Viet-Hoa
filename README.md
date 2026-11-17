@@ -1,7 +1,7 @@
 # 🌟 PokeMMO Việt Hóa Hoàn Chỉnh 5 Vùng (PC, Android & iOS)
 
 [![Game: PokeMMO](https://img.shields.io/badge/Game-PokeMMO-orange.svg)](https://pokemmo.com)
-[![Version](https://img.shields.io/badge/Version-v3.1.0--speed-brightgreen.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
+[![Version](https://img.shields.io/badge/Version-v1.3.6.1--speed-brightgreen.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Android%20|%20iOS%20|%20macOS%20|%20Linux-blue.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
 [![Language](https://img.shields.io/badge/Language-Ti%E1%BA%BFng%20Vi%E1%BB%87t%20(100%25)-red.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
 [![Status](https://img.shields.io/badge/Status-Ho%C3%A0n%20thi%E1%BB%87n%20%26%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh-success.svg)](https://github.com/NguyenTheVy/PokeMMO-Viet-Hoa/)
@@ -20,7 +20,7 @@ Dự án hiện cung cấp **2 phiên bản riêng biệt** để người chơi
 | **Bộ Font Pixel retro không lỗi dấu** |  Có |  Có |
 | **Hội thoại NPC đầy đủ nguyên bản** |  Có (Đầy đủ 100%) |  Có (Giữ cốt truyện chính) |
 | **Bỏ qua thoại Y tá Joy (Hồi máu tức thì)** | ❌ Không |  **Tự động hồi máu ngay** |
-| **Tự động kích hoạt HM (Surf, Cut, Smash...)** | ❌ Hiện bảng hỏi Yes/No |  **Kích hoạt ngay không hỏi** |
+| **Hội thoại dùng HM / TM (Surf, Cut, Smash...)** | 📖 Đầy đủ câu thoại & xác nhận |  **Rút gọn tối đa (bấm qua nhanh)** |
 | **Hiển thị bảng tiền thưởng Gym / Cooldown** | ❌ Không |  **Có bảng tính tiền & giờ chờ** |
 | **Thoát trận tức thì khi thắng Gym Rerun** | ❌ Bấm phím qua thoại |  **Thoát trận ngay lập tức** |
 | **Kích thước nút bấm (Yes / No)** |  Nhỏ gọn chuẩn gốc |  Nhỏ gọn chuẩn gốc (Không bị to) |
@@ -48,10 +48,10 @@ Tải file mod phiên bản phù hợp tại mục [**Releases**](https://github
 
 | Phiên Bản | Tên File Mod | Nhu Cầu Sử Dụng | Nền Tảng Hỗ Trợ | Dung Lượng |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bản Siêu Tốc (Speed / Rush)** | `PokeMMO-Viet-Hoa-Sieu-Toc-V2.mod` | Cày cuốc, Gym Rerun, tự động HM, hồi máu tức thì | PC, Android, iOS | ~9.3 MB |
+| **Bản Siêu Tốc (Speed / Rush)** | `PokeMMO-VietHoa-SupersStoryStrings-v1.3.6.1.zip` *(hoặc `.mod`)* | Cày cuốc, Gym Rerun, rút gọn thoại HM/TM, hồi máu tức thì | PC, Android, iOS | ~10.5 MB |
 | **Bản Tiêu Chuẩn (Standard)** | `PokeMMO-Viet-Hoa-08-Fix5.mod` | Trải nghiệm trọn vẹn từng câu thoại cốt truyện gốc | PC, Android, iOS | ~9.3 MB |
 
-> 💡 **Mẹo:** Bạn chỉ cần tải **1 trong 2 bản** tùy theo nhu cầu (chỉ tải duy nhất file `.mod`, không cần giải nén thành thư mục).
+> 💡 **Mẹo:** Bạn chỉ cần tải **1 trong 2 bản** tùy theo nhu cầu (định dạng `.zip` hoặc `.mod` đều import trực tiếp vào game được ngay, không cần giải nén).
 
 ---
 
@@ -74,9 +74,9 @@ Tải file mod phiên bản phù hợp tại mục [**Releases**](https://github
   - **`Viet PC Pixel 08`**: Tối ưu hiển thị cho PC, màn hình rộng và tỷ lệ cửa sổ linh hoạt.
   - **`Viet Android Pixel 08`**: Tối ưu cỡ chữ to rõ, dễ đọc cho màn hình cảm ứng điện thoại.
  
-### 4. 📦 Đóng Gói Chuẩn Single `.mod` File
-- Đóng gói duy nhất 1 file `.mod` (chuẩn `string_revision="1"` tương thích 100% với PokeMMO Client hiện tại).
-- Không cần giải nén, chỉ cần import là chơi ngay, không lo xung đột hay ghi đè file hệ thống.
+### 4. 📦 Đóng Gói Tiện Lợi (Single File .zip / .mod)
+- Đóng gói duy nhất 1 file hoàn chỉnh (chuẩn `string_revision="1"` tương thích 100% với PokeMMO Client hiện tại).
+- Không cần giải nén, chỉ cần import trực tiếp file `.zip` hoặc `.mod` là chơi ngay, không lo xung đột hay ghi đè file hệ thống.
 
 ---
 
@@ -96,12 +96,12 @@ Tải file mod phiên bản phù hợp tại mục [**Releases**](https://github
 #### Cách 1: Sử dụng tính năng Import của Game (Khuyên dùng)
 1. Khởi động **PokeMMO**.
 2. Tại màn hình Đăng Nhập, nhấn vào nút **Mod Management** (Quản lý Mod) ở góc phải dưới.
-3. Nhấn **Import Mod** và chọn file mod bạn đã tải về (`PokeMMO-Viet-Hoa-Sieu-Toc-V2.mod` hoặc `PokeMMO-Viet-Hoa-08-Fix5.mod`).
+3. Nhấn **Import Mod** và chọn file mod bạn đã tải về (`PokeMMO-VietHoa-SupersStoryStrings-v1.3.6.1.zip` hoặc `PokeMMO-Viet-Hoa-08-Fix5.mod`).
 4. Tích chọn ô vuông bên cạnh mod để kích hoạt (hiện dấu tích xanh ✅).
 5. Nhấn **Save** và khởi động lại game.
 
 #### Cách 2: Chép trực tiếp vào thư mục mods
-- **Windows**: Chép file `.mod` vào thư mục:
+- **Windows**: Chép file `.zip` hoặc `.mod` vào thư mục:
   ```
   PokeMMO/data/mods/
   ```
@@ -113,10 +113,10 @@ Tải file mod phiên bản phù hợp tại mục [**Releases**](https://github
 
 ### 2. Cài đặt trên Android
 
-1. Tải file `.mod` (Bản Siêu Tốc hoặc Bản Tiêu Chuẩn) trực tiếp về điện thoại (file sẽ nằm trong thư mục `Download`).
+1. Tải file mod (Bản Siêu Tốc `PokeMMO-VietHoa-SupersStoryStrings-v1.3.6.1.zip` hoặc Bản Tiêu Chuẩn `PokeMMO-Viet-Hoa-08-Fix5.mod`) trực tiếp về điện thoại (file sẽ nằm trong thư mục `Download`).
 2. Mở ứng dụng **PokeMMO** trên điện thoại.
 3. Tại màn hình Đăng nhập (Login), nhấn vào biểu tượng **Menu bánh răng ⚙️** (hoặc nút **Mod Management**).
-4. Chọn **Import Mod** -> tìm và chọn file `.mod` vừa tải trong thư mục `Download`.
+4. Chọn **Import Mod** -> tìm và chọn file vừa tải trong thư mục `Download`.
 5. Đánh dấu tích xanh ✅ vào mod tiếng Việt vừa import.
 6. Chọn **Save** và nhấn **Restart Game** khi có thông báo.
 
@@ -124,10 +124,10 @@ Tải file mod phiên bản phù hợp tại mục [**Releases**](https://github
 
 ### 3. Cài đặt trên iOS (iPhone / iPad)
 
-1. Dùng trình duyệt Safari tải file `.mod` về máy -> Lưu tệp vào ứng dụng **Tệp (Files)** của iPhone/iPad (thường nằm trong mục *Tải về*).
+1. Dùng trình duyệt Safari tải file mod về máy -> Lưu tệp vào ứng dụng **Tệp (Files)** của iPhone/iPad (thường nằm trong mục *Tải về*).
 2. Mở ứng dụng **PokeMMO** trên iPhone/iPad (ở màn hình Đăng nhập Login).
 3. Nhấn vào biểu tượng **Menu bánh răng ⚙️** (hoặc nút **Mod Management**).
-4. Chọn **Import Mod** -> trình duyệt **Tệp (Files)** của iOS sẽ tự động mở lên -> chọn file `.mod` vừa tải về.
+4. Chọn **Import Mod** -> trình duyệt **Tệp (Files)** của iOS sẽ tự động mở lên -> chọn file mod vừa tải về.
 5. Đánh dấu tích xanh ✅ kích hoạt mod.
 6. Chọn **Save** và nhấn **Restart Game** khi có thông báo.
 
@@ -149,7 +149,7 @@ Tải file mod phiên bản phù hợp tại mục [**Releases**](https://github
 <summary><b>1. Tôi nên chọn Bản Tiêu Chuẩn hay Bản Siêu Tốc?</b></summary>
 <p>
 - Nếu bạn là <b>người mới chơi</b> hoặc muốn thưởng thức cốt truyện trọn vẹn: Chọn <b>Bản Tiêu Chuẩn</b> (<code>PokeMMO-Viet-Hoa-08-Fix5.mod</code>).<br>
-- Nếu bạn <b>đã qua cốt truyện</b>, muốn cày cấp, đi Gym Rerun hoặc muốn di chuyển nhanh (tự động Surf, Cut không cần hỏi, hồi máu PokeCenter ngay lập tức): Chọn <b>Bản Siêu Tốc</b> (<code>PokeMMO-Viet-Hoa-Sieu-Toc-V2.mod</code>).
+- Nếu bạn <b>đã qua cốt truyện</b>, muốn cày cấp, đi Gym Rerun hoặc muốn di chuyển nhanh (rút gọn tối đa hội thoại HM/TM khi Surf, Cut... để bấm qua nhanh, hồi máu PokeCenter ngay lập tức): Chọn <b>Bản Siêu Tốc</b> (<code>PokeMMO-VietHoa-SupersStoryStrings-v1.3.6.1.zip</code>).
 </p>
 </details>
 
